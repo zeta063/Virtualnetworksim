@@ -1,7 +1,7 @@
 <h1>Virtual network simulation</h1>
 
 <h2>Project Description</h2>
-How to construct a virtual network diagram on Figma<br />
+How to construct a virtual network diagram on Figma. Use the icons in the zip file.<br />
 
 
 <h2>Languages and Utilities Used</h2>
